@@ -1,0 +1,1 @@
+# Shifteo zabbix-client-role   
